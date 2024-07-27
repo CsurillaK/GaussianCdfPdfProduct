@@ -5,4 +5,4 @@ $$p\left( x \right) \propto \sigma_1^{-1} \ \varphi\left( \frac{x - \mu_1}{\sigm
 
 ![](Misc/animation.gif)
 
-We estimate the mean and variance by performing Newton's method once from both means, picking whichever evaluates to larger a posterior density value.  
+We estimate the mean and variance by performing Newton's method once from both means, picking whichever evaluates to larger a posteriori density.  
