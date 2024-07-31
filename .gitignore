@@ -1,1 +1,7 @@
-*.asv
+*
+!README.md
+!.gitignore
+!main.m
+!main.ipynb
+!/Misc
+!/Misc/*
